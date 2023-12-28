@@ -1,0 +1,28 @@
+Success,
+	 Recipient 3057979456@example.org Received the email with number 3057979456, Time stamp 2023-10-10 21:58:37
+Success,
+	 Recipient 3057979456@example.net Received the email with number 3057979456, Time stamp 2023-10-10 21:58:38
+Success,
+	 Recipient 3057979456@example.com Received the email with number 3057979456, Time stamp 2023-10-10 21:58:40
+
+Success,
+	 Recipient 3057979454@int.org Received the email with number 3057979454, Time stamp 2023-10-10 23:08:42
+Success,
+	 Recipient 3057979454@example.net Received the email with number 3057979454, Time stamp 2023-10-10 23:08:47
+Success,
+	 Recipient 3057979454@example.com Received the email with number 3057979454, Time stamp 2023-10-10 23:08:48
+
+Success,
+	 Recipient 3057979454@int.org Received the email with number 3057979454, Time stamp 2023-10-10 23:10:12
+Success,
+	 Recipient 3057979454@ok.net Received the email with number 3057979454, Time stamp 2023-10-10 23:10:14
+Success,
+	 Recipient 3057979454@now.com Received the email with number 3057979454, Time stamp 2023-10-10 23:10:15
+
+Success,
+	 Recipient 3057979454@int.org Received the email with number 3057979454, Time stamp 2023-10-10 23:10:18
+Success,
+	 Recipient 3057979454@ok.net Received the email with number 3057979454, Time stamp 2023-10-10 23:10:19
+Success,
+	 Recipient 3057979454@now.com Received the email with number 3057979454, Time stamp 2023-10-10 23:10:21
+
